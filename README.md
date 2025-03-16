@@ -24,6 +24,10 @@ This project visualizes real-time **accelerometer** and **gyroscope** data from 
 ---
 
 ## **Installation & Setup**
+### Connection Diagram
+
+![Hardware Connection](images/connection.png)
+
 ### **Upload Arduino Code**
 1. Install **Arduino IDE** & **ESP32**  
 2. Connect your ESP32 via USB  
