@@ -22,6 +22,8 @@ This project visualizes real-time **accelerometer** and **gyroscope** data from 
 -  **USB Cable** for programming  
 
 ---
+## **Output**
+![Hardware Connection](images/connection.png)
 
 ## **Installation & Setup**
 ### Connection Diagram
