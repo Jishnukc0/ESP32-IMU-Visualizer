@@ -35,7 +35,7 @@ This project visualizes real-time **accelerometer** and **gyroscope** data from 
 4. Select the correct **COM Port**  
 5. Click **Upload**   
 
-### ** Run Processing Code**
+### **Run Processing Code**
 1. Install **Processing 4+** from [processing.org](https://processing.org/)  
 2. Install the following Processing Libraries:  
    - **ToxicLibs** (for quaternion calculations)  
