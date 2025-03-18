@@ -23,7 +23,7 @@ This project visualizes real-time **accelerometer** and **gyroscope** data from 
 
 ---
 ## **Output**
-![Hardware Connection](images/out.mp4)
+![Hardware Connection](images/out.gif)
 
 ## **Installation & Setup**
 ### Connection Diagram
